@@ -1,1 +1,2 @@
-# Metodi-di-Ricampionamento-per-l-Analisi-Dati
+# Metodi-di-Ricampionamento-per-l'-Analisi-Dati
+Questo lavoro è stato svolto come tesi di laurea triennale in Matematica per l'Ingegneria. In sintesi prevede l'analisi dei Financial Ratios come indicatori dello stato di bancarotta utilizzando diverse tecniche Machine Learning e ricampionamento dati.  I risultati ottenuti applicando algoritmi predittivi al dataset in questione bilanciato evidenziano la validità di tali strategie di ricampionamento. Oltre al jupyter notebook sono presenti i file latex con presentazione e esposizione del lavoro completo.
